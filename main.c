@@ -1,7 +1,7 @@
 /*
    # *******************************************************
    # Nom ......... : main.c
-   # Rôle ........ : Exercices sur les commodités en C
+   # Rôle ........ : Exercices sur les listes en C
    # Auteur ...... : Jeremy Fouquet
    # Version ..... : V1 2022
    # Licence ..... : Réalisé dans le cadre du cours de La Licence Informatique de L IED
@@ -30,7 +30,7 @@ void carUse(list, void *);
 void cdrUse(list, void *);
 
 int main(int argc, const char * argv[]) {
-    exercice_C("C. Exercices sur les commodités");
+    exercice_C("C. Exercices sur les listes");
     puts("");
     return 0;
 }
